@@ -1,0 +1,426 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+    }
+.layer
+{
+    background-color:rgba(0,0,0,0.7);
+    height: 710px;
+}
+
+
+.home
+{
+background-image: url(images/business-2.jpg) ;
+    background-size: 100% 100%;
+    height: 800px;
+        text-align: center;
+
+
+}
+.nav
+{
+    background-color:rgba(0,0,0,0.7);
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.nav img
+{
+    height: 30px ;
+    width: auto;
+}
+.nav ul 
+{
+ list-style-type: none;
+        display: inline-block;
+    padding: 10px;
+
+    
+}
+.nav ul li 
+{
+        display: inline-block;
+    font-size: 24px;
+    color: white;
+    padding: 15px;
+font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.5px;
+}
+.home h4
+{
+    padding-top: 230px;
+    color: white;
+    font-size: 28px;
+    font-weight: 200;
+    
+}
+.home p 
+{
+    font-size: 62px;
+    margin: 25px; 
+    color: white;
+}
+.btn1
+{
+    padding:13px 15px;
+    border-style: none;
+    background-color:#4caf50;
+    color: white;
+    font-size: 18px;
+    font-family: 'Anton', sans-serif;
+border-radius: 5%;
+    font-weight:bold;
+}
+.cont
+{
+    background-color: white;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    width:100% 100%;
+}
+.part
+{
+    display: inline-block;
+    width:32%;
+    margin-left: 5px;
+    padding: 45px 0px;    
+}
+.part img
+{
+    width:35px;
+    height:35px;
+    padding:15px;
+}
+.part h3
+{
+    display: inline-block;
+    letter-spacing: 0.5px;
+    font-family:sans-serif;
+    font-weight: 100;
+    
+}
+.part p
+{
+    color:darkgray;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    font-weight: 100 ;
+font-family: 'Cormorant Garamond', serif;
+    
+    }
+.os
+{ 
+    background-color:#f5f5f5;
+    text-align: center;
+    padding: 100px 50px; 
+
+}
+.os h2 
+{
+    font-size: 38px;
+    font-weight: 100;
+    margin-bottom: 20px;
+    letter-spacing:1px;
+
+}
+.os p 
+{
+    font-size: 24px;
+    font-weight: 100;
+    margin-bottom: 30px;
+    letter-spacing:1px;
+    color: dimgrey;
+    font-family: 'Open Sans', sans-serif;
+
+    
+}
+.service
+
+{
+    background-color: white;
+    display: inline-block;
+    width: 32%;
+    margin: 7px;
+
+}
+.service img 
+{
+    width: 100%;
+}
+
+.text
+{ 
+    padding: 15px;
+}
+
+.text h4
+{
+ font-size: 20px;
+ font-weight: 100;
+ letter-spacing:0.5px;
+}
+.text h6
+{ 
+    font-size: 18px;
+    font-weight: 100;
+    letter-spacing:0.5px;
+        color: gray;
+
+}
+.text p
+{
+    letter-spacing:0px;
+    font-size:16px;
+    margin-bottom:5px;
+    line-height: 30px;
+    font-weight: 400;
+        color: gray;
+
+}
+.data
+{
+    display: inline-block;
+    float: left;
+    margin: 40px 25px;
+    padding-left: 35px;
+}
+.data h3 
+{
+    padding-top: 150px;
+    font-size: 34px;
+    font-weight: 200;
+    color: #303030;
+    margin-bottom: 20px;
+}
+.data p 
+{
+    font-family: 'Open Sans',arial;
+    font-size: 16px;
+    line-height: 32px;
+    padding-bottom: 25px;
+        color: #686868;
+
+    
+}
+.
+.tdata
+{
+    margin: 15px 0px;
+        color: #303030;
+
+}
+.tdata img
+{
+    width:20px;
+    height: 20px;
+    margin-bottom: 15px;
+}
+.tdata h5
+{
+        margin-bottom: 15px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    font-weight: 100;
+        color: #686868;
+
+
+}
+.oursecret
+{
+
+    height: 800px;
+}
+.mainimage
+{
+    margin: 40px 0px;
+    height: 550px;
+    width: 550px;
+}
+.people
+{
+    background-color:#f5f5f5;
+    padding:70px 50px;
+}
+.icon 
+{
+    background-color:#f5f5f5;
+    text-align: center;
+}
+.profile
+{
+    background-color:white;
+    margin: 30px 10px;
+    display: inline-block;
+    width: 31%;
+    margin-bottom: 100px;
+}
+.profile p
+{
+    letter-spacing: 0.5px;
+    color: gray;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 20px;
+}
+.profile h4
+{
+    background-color:#f5f5f5;
+    padding-left: 30px;
+    padding-top: 20px;
+    color: grey;
+}
+.profile h5
+{
+    background-color:#f5f5f5;
+    padding-left: 30px;
+    padding-top: 10px;
+    color: lightgray;
+}
+
+.bar 
+{
+    padding: 80px 10px;
+ 
+    
+}
+
+.contant
+{
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    margin: 30;
+}
+.contant h2 
+{
+    font-size: 56px;
+    font-weight: 300;
+}
+.contant h4 
+{
+    font-size: 26px;
+    font-weight: 100;
+    color:grey;
+}
+.contact1
+{
+    background-image:url(images/download.jpg);
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    margin: 20px 0px;
+    background-size:100% 100%;
+    
+}
+.contact1 h2 
+
+{
+        padding-top:180px;
+    margin: 10px;
+   color: white;
+    font-size: 36px;
+    font-weight: 100;
+font-family: 'Yantramanav', sans-serif;
+}
+.contact1 p
+
+{
+        margin: 20px;
+   color: white;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    line-height:30px; 
+    font-weight: 100;
+  padding:0px 350px;
+}
+.layer1
+{
+    background-color:rgba(0,0,0,0.5);
+    height: 550px;
+}
+.offers
+{
+    padding: 70px 40px;
+}
+.offers h2
+{
+    text-align: center;
+    font-size: 42px;
+    padding: 10px;
+    font-weight: 200;
+}
+.offers h4 
+{
+      text-align: center;
+    font-size: 22px;
+    padding: 10px 20px;
+        font-weight: 100;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color:dimgrey;
+
+
+
+}
+.offer
+{
+    width:30%;
+    display: inline-block;
+    padding:20px 10px;
+    margin: 5px;
+}
+.offer h3
+{font-weight: 300;
+    font-size: 20px;
+    padding: 15px;
+}
+.offer p 
+{
+    padding:0px 15px; 
+    line-height: 25px;
+    color:dimgrey;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+
+}
+.spon 
+{
+    
+    background-color: #f5f5f5;
+    padding: 35px 70px;
+}
+.spon img 
+{
+    margin-right: 60px; 
+}
+.conv
+{
+    background-color: #4caf50;
+text-align: center;
+    padding: 130px ;
+}
+.conv h2
+{
+    font-size: 38px;
+color: white;
+    font-weight: 100;
+    
+}
+.conv h4
+{
+  font-size: 32px;
+color: white;
+    font-weight: 100; 
+    margin: 10px;
+}
+.conv .btn2
+{
+    padding: 20px 20px;
+    border-radius: 4px;
+    margin: 20px;
+    border-style: none;
+    font-weight: 600;
+}
